@@ -14,5 +14,5 @@ S2 == import system additional input;
 int def  == customize system input; 
 
 if customizing system input == then include:
-(1. mouse)
-(2. keyboard)
+(1. MOUSE)
+(2. KEYBOARD)
