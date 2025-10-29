@@ -13,7 +13,7 @@ int def == customize system graphics UI;
 
 if customizing system graphics UI == then include:
 (1. GNOME)
-(2. XWayland)
+(2. XWAYLAND)
 (3. X11)
 (4. X11)
 (5. NATINT32)
