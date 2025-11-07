@@ -1,2 +1,6 @@
 # BlackHomuraOS
-This is BlackHomuraOS, a upcoming operating system for cybersecurity, hacking, and defensive security (Under-Current-Development/System_Engineering)
+
+This is the BlackHomuraOS project, a minimal multiboot2 kernel.
+
+## License
+This project is licensed under the GPL-3.0-or-later License.
